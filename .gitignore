@@ -18,3 +18,4 @@ project/plugins/project/
 /bin
 .classpath
 .project
+.cache
